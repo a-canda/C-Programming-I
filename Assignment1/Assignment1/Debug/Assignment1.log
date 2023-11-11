@@ -1,0 +1,3 @@
+﻿  pch.cpp
+  Assignment1.cpp
+c:\users\anc\desktop\c++\assignment1\assignment1\assignment1.cpp(34): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
