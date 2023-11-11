@@ -1,0 +1,3 @@
+﻿  Assignment6.cpp
+c:\users\anc\desktop\c++\assignment6\assignment6\assignment6.cpp(81): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Assignment6.vcxproj -> C:\Users\ANC\Desktop\C++\Assignment6\Debug\Assignment6.exe
