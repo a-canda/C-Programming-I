@@ -1,0 +1,3 @@
+﻿  Assignment12.cpp
+c:\users\anc\desktop\c++\assignment12\assignment12\assignment12.cpp(112): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assignment12.vcxproj -> C:\Users\ANC\Desktop\C++\Assignment12\Debug\Assignment12.exe
